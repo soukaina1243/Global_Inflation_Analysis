@@ -1,4 +1,4 @@
-<img width="1327" height="688" alt="Capture d&#39;écran 2026-03-19 163554" src="https://github.com/user-attachments/assets/9c2ba994-486e-4fbc-8af2-06602d58aad9" /># Inflation Decision Support System (DSS)
+# Inflation Decision Support System (DSS)
 
 ## Overview
 
@@ -109,7 +109,7 @@ Features:
 * Comparative analysis
 * Interactive filters (country, year)
 * Analytical insights
-
+<img width="1327" height="688" alt="Capture d&#39;écran 2026-03-19 163554" src="https://github.com/user-attachments/assets/9c2ba994-486e-4fbc-8af2-06602d58aad9" />
 ---
 
 ##  Automation
@@ -207,13 +207,6 @@ This system enables:
 * Business Intelligence (Power BI)
 * Workflow Automation (Airflow, Scheduler)
 * Docker (Containerization)
-
----
-
-## 📸 Screenshots
-
-<img width="1327" height="688" alt="Capture d&#39;écran 2026-03-19 163554" src="https://github.com/user-attachments/assets/a3b9b055-fb30-4010-9f39-44bf7345c487" />
-
 
 ---
 
