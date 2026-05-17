@@ -119,6 +119,7 @@ Features:
 * **PostgreSQL Stored Procedure**
 * **Python (psycopg2)**
 * **Apache Airflow (Docker)**
+<img width="1819" height="811" alt="Capture d&#39;écran 2026-05-14 214128" src="https://github.com/user-attachments/assets/7f564044-e3c3-480b-8234-33a75f3f0a54" />
 
 ### Pipeline Features:
 
